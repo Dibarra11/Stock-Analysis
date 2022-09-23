@@ -10,5 +10,7 @@ Before adding the new portion of code to enhance the original code to perform th
 
 ## Summary
 
-### Advantages and disadvantages of refactoring code
+### Advantages and Disadvantages of Refactoring Code
 Refactoring the code makes it more visually appealing and easy to read by utilizing the whitespace to create notes to follow through without getting lost. In addition, if the code is shared, the new user can quickly know what is being done at any given stage. This also helps with debugging and enhances programming. However, sometimes when we refactor, the code makes the application too large and can create an overflow error in the syntax, causing an additional risk of losing portions of the code. 
+
+### Advantages and Disadvantages of Original and Refactored VBA Code
