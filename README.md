@@ -5,4 +5,6 @@ This challenge aimed to refactor a Microsoft Excel VBA code to collect specific 
 
 ## Results
 Before adding the new code to enhance the original code to perform the refactor, specific steps had to be completed;  creating an input box to enter the year, activating the correct worksheet, etc. These steps had to be precise to get the refactor to work appropriately. The code was written as follows.
-![Image](
+
+![Image](https://github.com/Dibarra11/Stock-Analysis/blob/1983f6815cb33c3dd863189fdf1964b8e3d6e1ec/code.png)
+
