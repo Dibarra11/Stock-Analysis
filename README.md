@@ -15,7 +15,7 @@ Refactoring the code makes it more visually appealing and easy to read by utiliz
 
 ### Advantages and Disadvantages of Original and Refactored VBA Code
 
-By refactoring the code, the macro ran much faster, decreasing the time elapsed from 1.15 seconds to .640, cutting the time almost by half. However, some disadvantages of refactoring the code are that it is time-consuming and new bugs can arise, making it more challenging to fix.
+By refactoring the code, the macro ran much faster, decreasing the time elapsed from 1.15 seconds to .640 seconds, cutting the time almost by half. However, some disadvantages of refactoring the code are that it is time-consuming and new bugs can arise, making it more challenging to fix.
 
 ![image](https://github.com/Dibarra11/Stock-Analysis/blob/b7da21ba486ec0abdb949f63c57927063c413c96/VBA_Challenge_2017.png)
 ![image](https://github.com/Dibarra11/Stock-Analysis/blob/cc92475c3bb920293f80571dd5de54345e0e97ab/VBA_Challenge_2018.png)
